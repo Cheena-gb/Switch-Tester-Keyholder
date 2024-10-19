@@ -9,17 +9,17 @@ Hook them up with carabiner or straps, and let your favorite switches see the wo
 
 ## Precautions
 This product is hand made.  
-Some scratches or ununiform solders, flux passes QC unless they can be seen after assembled.
+Some scratches or ununiform solders, flux remaining passes QC unless they can be seen after assembled.
   
-As this product has no electronic parts, it has no risk breaking by getting wet; however, screws, spacers, solders, sockets and switches may rust.  
-Please dry well after getting wet.  
+Screws, spacers, solders, sockets and switches may rust after getting wet.  
+Please dry well after rain or going sea.  
 It is not reccomended to use keycaps. Those may fall off.
   
-Please disassemble or customize on your own risk.
-Please check that there is no breaks or no loose screws before using. 
+Please disassemble or customize on your own risk.  
+Please check that there is no breaks or no loose screws before using.   
 Do not apply strong force.
   
-While spacers and screws used in this product are RoHS-compartible, there is no assurance that solders and accesory parts are, too.
+While spacers and screws used in this product are RoHS-compartible, there is no assurance that solders and accesory parts are.
 
 # Build Guide
 ## Required parts
@@ -27,14 +27,14 @@ Included parts may vary on events or shops. They may be already assembled.
 - Plates
   - Backpanel  
   Stars on outside, words inside.
-- Circuit Board(PCB)
-- Switchplate
+  - Circuit Board(PCB)
+  - Switchplate
 - Screws  
   Please choose M2 screws with necessary length.  
   When they are bundled, please use it.
-- Spacers
+- Spacers  
   M2, 3.5 millimeter, 2 millimeter, 5 each
-- Sockets
+- Sockets  
   Three or five needed
 ## Required tools
 - Soldering supplies
@@ -52,11 +52,11 @@ Included parts may vary on events or shops. They may be already assembled.
 ### 3.Assembling
   Instructions vary on the length of screws.
   - (Relatively expensive)Using 7mm and 3mm M2 screws  
-    Put in 7mm screws form the star-side of the backpanel; fix them temporaly with masking tape.
-    Let the screws face up, put in 2mm spacers, pile up PCB and screw in 3.5mm spacer.
+    Put in 7mm screws form the star-side of the backpanel; fix them temporaly with masking tape.  
+    Let the screws face up, put in 2mm spacers, pile up PCB and screw in 3.5mm spacer.  
     Stack switchplate on, and screw firmly with 3mm screws.
-  - (Relatively inexpensive)12mm screws and hexagonal nuts 
-    Put in screws from swichplate, and pile up 3.5mm spacers, PCB, 2mm spacers, backpanel.
+  - (Relatively inexpensive)12mm screws and hexagonal nuts  
+    Put in screws from swichplate, and pile up 3.5mm spacers, PCB, 2mm spacers, backpanel.  
     Screw firmly with hex nuts.
 
 ## How to disassemble
@@ -64,4 +64,4 @@ If they have nuts on back, it is made with 12mm screws.
 If not, they have 3mm and 7mm screws.  
 Loosing the screws from the switchplate will always disassemble the parts.  
 
-Please note that may be screw locking adhesive applied; giving impact or heat may help them go off.  
+Please note that there may be screw-lock adhesive applied; giving impact or heat may help them go off.  
