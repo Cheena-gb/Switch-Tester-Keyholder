@@ -1,5 +1,5 @@
 # Keyswich Tester Keyholder
-
+[ENGLISH VER](README-EN.md)  
 スイッチテスター・キーホルダー(3u/5u)
 ![](images/5utester.jpg)
 
