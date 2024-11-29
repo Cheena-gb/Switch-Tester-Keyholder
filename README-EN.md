@@ -7,6 +7,22 @@ This product is only a keyring, but is also a switch tester.
 As this tester has sandwith-keyboard structure, its typing feel and sound is very likely to regular self-made sandwich keyboards.  
 Hook them up with carabiner or straps, and let your favorite switches see the world.
 
+| Compatible to | Cherry MX Ver. | Low Profile Ver. |
+| ----- | ----- | ----- |
+| Cherry MX | 〇 | × |
+| Tecsee LP | 〇 | × |
+| Outemu LP | × | × |
+| Kailh Choc | × | 〇 |
+| Gateron LP | × | 〇 |
+| Gateron LP 3.0 | × | × |
+
+Cherry MX…Cherry MX and compatible switches  
+Tecsee Low Profile…Can be mixed with Cherry MX  
+Outemu Low Profile…Cannot be mixed with Cherry MX  
+Kailh Choc…Kailh Choc V1 or V2 compatible  
+Gateron Low Profile…Gateron KS-27 or KS-33 compatible
+Gateron Low Profile 3.0…NuPhy Nos75 compatible
+
 ## Precautions
 This product is hand made.  
 Some scratches or ununiform solders, flux remaining passes QC unless they can be seen after assembled.
