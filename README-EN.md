@@ -4,7 +4,7 @@
 
 ## What is it?
 This product is only a keyring, but is also a switch tester.  
-As this tester has sandwith-keyboard structure, its typing feel and sound is very likely to regular self-made sandwith keyboards.  
+As this tester has sandwith-keyboard structure, its typing feel and sound is very likely to regular self-made sandwich keyboards.  
 Hook them up with carabiner or straps, and let your favorite switches see the world.
 
 ## Precautions
