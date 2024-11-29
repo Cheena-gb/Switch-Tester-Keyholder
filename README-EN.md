@@ -54,10 +54,10 @@ Included parts may vary on events or shops. They may be already assembled.
   - (Relatively expensive)Using 7mm and 3mm M2 screws  
     Put in 7mm screws form the star-side of the backpanel; fix them temporaly with masking tape.  
     Let the screws face up, put in 2mm spacers, pile up PCB and screw in 3.5mm spacer.  
-    Stack switchplate on, and screw firmly with 3mm screws.
+    Stack switchplate on, and fix firmly with 3mm screws.
   - (Relatively inexpensive)12mm screws and hexagonal nuts  
-    Put in screws from swichplate, and pile up 3.5mm spacers, PCB, 2mm spacers, backpanel.  
-    Screw firmly with hex nuts.
+    Put in screws from front of swichplate, and pile up 3.5mm spacers, PCB, 2mm spacers, backpanel.  
+    Fix firmly with hex nuts.
 
 ## How to disassemble
 If they have nuts on back, it is made with 12mm screws.  
