@@ -35,7 +35,11 @@ Please disassemble or customize on your own risk.
 Please check that there is no breaks or no loose screws before using.   
 Do not apply strong force.
   
-While spacers and screws used in this product are RoHS-compartible, there is no assurance that solders and accesory parts are.
+While spacers and screws used in this product are RoHS-compartible, there is no assurance that solders and accesory parts are.　　
+
+From spring of 2025, sockets are changed from black to purple, and edge coloring were omitted.  
+There is no change of its feature.  
+When coloring, please use permanent markers.
 
 # Build Guide
 ## Required parts
