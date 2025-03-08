@@ -20,7 +20,7 @@ Cherry MX…Cherry MX and compatible switches
 Tecsee Low Profile…Can be mixed with Cherry MX  
 Outemu Low Profile…Cannot be mixed with Cherry MX  
 Kailh Choc…Kailh Choc V1 or V2 compatible  
-Gateron Low Profile…Gateron KS-27 or KS-33 compatible
+Gateron Low Profile…Gateron KS-27 or KS-33 compatible  
 Gateron Low Profile 3.0…NuPhy Nos75 compatible
 
 ## Precautions
@@ -42,7 +42,7 @@ There is no change of its feature.
 When coloring, please use permanent markers.
 
 # Build Guide
-## Required parts
+## Required parts - MX Ver
 Included parts may vary on events or shops. They may be already assembled.  
 - Plates
   - Backpanel  
@@ -56,6 +56,17 @@ Included parts may vary on events or shops. They may be already assembled.
   M2, 3.5 millimeter, 2 millimeter, 5 each
 - Sockets  
   Three or five needed
+## Required parts - Low Profile Ver
+- Plates
+  - Same as MX Ver, but is slightly thinner (MX 1.6 millimeter, LP 1.2 millimeter)
+- Screws
+  M2, 8 millimeter
+- Spacers
+  M2, 2 millimeter, 5 required
+- Hex Nuts
+  M2, Type 3
+- Sopckets
+  Three or five each for Choc V1/V2 and/or Gateron V2
 ## Required tools
 - Soldering supplies
 - Screwdriver
@@ -68,16 +79,21 @@ Included parts may vary on events or shops. They may be already assembled.
   File the edge of the boards. They may be rough.  
   Paint the edge of the boards with the same color as their face have.
 ### 2.Soldering
-  Following the silkscreen on the PCB, solder the sockets.
+  Following the silkscreen on the PCB, solder the sockets.  
+  Gateron socket may interfare with Choc's fixing pin, so please cut off the fixing pin, or, leave a non-gateron switch hole for choc switches.
 ### 3.Assembling
   Instructions vary on the length of screws.
+- MX Ver
   - (Relatively expensive)Using 7mm and 3mm M2 screws  
-    Put in 7mm screws form the star-side of the backpanel; fix them temporaly with masking tape.  
+    Put in 7mm screws from the star-side of the backpanel; fix them temporaly with masking tape.  
     Let the screws face up, put in 2mm spacers, pile up PCB and screw in 3.5mm spacer.  
     Stack switchplate on, and fix firmly with 3mm screws.
   - (Relatively inexpensive)12mm screws and hexagonal nuts  
     Put in screws from front of swichplate, and pile up 3.5mm spacers, PCB, 2mm spacers, backpanel.  
     Fix firmly with hex nuts.
+- LP Ver  
+  Put in 8mm screws from front of switchplate, and fix firmly with nuts.  
+  Pile up PCB, 2mm spacers, backpanel, and fix them firmly with hex nuts.
 
 ## How to disassemble
 If they have nuts on back, it is made with 12mm screws.  
